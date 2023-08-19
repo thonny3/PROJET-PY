@@ -1,0 +1,36 @@
+input{
+    height: 40px;
+    outline: none;
+    border: 1px solid silver;
+}
+.ajout{
+    width: 50%;
+    outline: none;
+    color: white;
+    border: none;
+    background-color: deepskyblue;
+    height: 35px;
+}
+/* .contenu_article{
+    display: flex;
+   
+}
+.article_form{
+    width: 30%;
+    height: 350px;
+}
+
+.article_table{
+    width: 70%;
+    margin-left: 10px;
+} */
+
+.recherche button{
+    width: 80px;
+    background-color: deepskyblue;
+    color: white;
+  
+}
+td button {
+    width: 50px;
+}

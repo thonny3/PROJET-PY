@@ -1,0 +1,31 @@
+.contenu_acceuil{
+    display: flex;
+}
+.contenu_result{
+    width: 80%;
+}
+.contenu_user{
+    width: 25%;
+    height: 100%;
+}
+.user{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.list_user{
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+    
+}
+.description{
+    margin-left: 10px;
+    font-size: 15px;
+}
+.icon{
+    margin-left: 750px;
+    font-size: 35px;
+    color: #bfbfbf;
+    cursor: pointer;
+}
